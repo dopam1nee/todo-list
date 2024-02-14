@@ -1,0 +1,20 @@
+.app {
+	margin: 25px;
+	color: white;
+}
+
+.todos {
+	display: flex;
+}
+
+.title {
+	margin: 0 10px 0 5px;
+}
+
+.controlPanel {
+	display: flex;
+}
+
+/*.checkboxSort {
+	display: none;
+}*/
